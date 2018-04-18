@@ -1,1 +1,3 @@
 # study-buddies
+
+Hello everyone
